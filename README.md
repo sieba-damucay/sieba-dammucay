@@ -17,8 +17,12 @@
 ### [Portfolio Website](https://siebadamucay.github.io)  
 My personal portfolio showcasing skills, projects, and achievements.  
 
-## [SnackHaven E-Commerce App](https://github.com/your-ecommerce-repo)  
-An online food ordering system with a customer-facing UI and seller panel.  
+### [SnackHaven E-Commerce App](https://github.com/siebadamucay/your-ecommerce-repo)  
+A full-stack capstone project designed for consumers to conveniently buy snacks online.  
+- **Customer side:** Browse products, add to cart, place orders, leave comments/instructions  
+- **Seller panel:** Manage products, promotions, and customer orders  
+- **Tech stack:** React, CSS, Node.js, Express, MySQL  
+ 
 
 Explore more on my GitHub: [github.com/siebadamucay](https://github.com/siebadamucay)  
 
